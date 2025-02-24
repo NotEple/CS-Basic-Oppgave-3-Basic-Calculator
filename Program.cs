@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
+﻿
 // Flowchart - https://excalidraw.com/#json=aX6X4XdF-4qhe5T2mJgoc,F-8ptHGyWhL2ZSWH7pRxeQ
 
 namespace CS_Basic_Oppgave_3_Basic_Calculator
