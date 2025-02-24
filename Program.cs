@@ -6,14 +6,6 @@ namespace CS_Basic_Oppgave_3_Basic_Calculator
 {
     class Program
     {
-        static void ClearLine()
-        {
-            // Remove the command that got written.
-            Console.SetCursorPosition(0, Console.CursorTop);
-            Console.Write(new string(' ', Console.WindowWidth));
-            Console.SetCursorPosition(0, Console.CursorTop - 1);
-        }
-
         static void Main(string[] args)
         {
             bool programRun = true;
